@@ -1,0 +1,5 @@
+Loai: Noi tru| So ngay nam vien: 120| Gia tien/ngay: 10| Chi phi thuoc: 50| Chi phi kham benh: 100
+Loai: Ngoai tru| Chi phi thuoc: 10| Chi phi kham benh: 100
+Loai: Noi tru| So ngay nam vien: 10| Gia tien/ngay: 5| Chi phi thuoc: 100| Chi phi kham benh: 50
+Loai: Ngoai tru| Chi phi thuoc: 23| Chi phi kham benh: 21
+Loai: Noi tru| So ngay nam vien: 12| Gia tien/ngay: 5| Chi phi thuoc: 100| Chi phi kham benh: 10
